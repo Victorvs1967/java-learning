@@ -1,4 +1,5 @@
 public class FailSoftArray {
+  
   private int a[];
   private int errval;
 
